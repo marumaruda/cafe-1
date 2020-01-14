@@ -1,32 +1,126 @@
 body {
     margin: 0%;
-}
-#top {
-    background-color: #EFC9AD;
-    height: 100px;
-    padding-top: 1px;
+    color: #8C765D;
 }
 #header {
-    margin-left: 2%;
+    background-color: #EFC9AD;
+    height: 137px;
+    padding-top: 1px;
 }
 #header-logo {
-    width: 7%;
-    height: 7%;
+    width: 5%;
     float: left;
-    margin-right: 2%;
+    margin-right: 3%;
+    margin-left: 2%;
+    margin-top: 1%;
 }
 #header-title {
     text-align: center;
     margin: 0%;
     float: left;
+    margin-top: 1%;
 }
 #navi{
     list-style: none;
-    padding-top: 20px;
+    padding-top: 15px;
+    text-align: center;
 }
 .navi-cont {
     float: left;
     margin-left: 7%;
     margin-right: 7%;
 }
+.navi-eng {
+    font-size: 200%;
+}
 
+.main-vis {
+    margin-bottom: -7px;
+}
+.main-img {
+    width: 100%;
+    height: 99%;
+}
+.main-title {
+    position: absolute;
+    top: 700px;
+    left: 8%;
+    background-color: rgb(231, 227, 227);
+    width: 30%;
+    padding-left: 2%;
+}
+.title {
+    margin: 0%;
+    font-size: 320%;
+}
+
+.main-cont {
+    background-color: #9B7758;
+    padding-top: 16px;
+}
+.main-cont h1 {
+    text-align: center;
+    margin-top: 230px;
+    background-color: rgb(231, 227, 227);
+    font-size: 350%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.point-1 {
+    margin-top: 200px;
+}
+.point-1 h2 {
+    color: rgb(231, 227, 227);
+    font-size: 250%;
+    margin: 0%;
+    margin-left: 2%;
+}
+.point-1 h3 {
+    font-size: 260%;
+    background-color: rgb(231, 227, 227);
+    margin-right: 60%;
+    padding: 1% 2%;
+    margin-top: 0%;
+}
+.point-img {
+    text-align: center;
+    margin-top: 10%;
+}
+.point-1 p {
+    color: rgb(231, 227, 227);
+    text-align: center;
+    margin-top: 6%;
+    font-size: 200%;
+}
+.point-2 {
+    margin-top: 200px;
+    padding-bottom: 130px;
+}
+.point-2 h2 {
+    color: rgb(231, 227, 227);
+    font-size: 250%;
+    margin: 0%;
+    margin-left: 2%;
+}
+.point-2 h3 {
+    font-size: 260%;
+    background-color: rgb(231, 227, 227);
+    margin-right: 65%;
+    padding: 1% 2%;
+    margin-top: 0%;
+}
+.point-2 p {
+    color: rgb(231, 227, 227);
+    text-align: center;
+    margin-top: 6%;
+    font-size: 200%;
+}
+.em-1 {
+    color: #EECAAA;
+}
+
+.footer {
+    background-color: #EFC9AD;
+    text-align: center;
+    padding-top: 30px;
+}
